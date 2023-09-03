@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **GPT pro**
 
-- 🤝 I’m looking for help with **GPT pro**
+- 🤝 I’m looking for help with **GPT pro...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/soulabi](https://github.com/soulabi)
 
